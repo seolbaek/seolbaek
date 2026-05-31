@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hello, I'm Seol (백설)
 
-<!--
-**seolbaek/seolbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seol's%20Workspace&fontSize=50" />
+</p>
 
-Here are some ideas to get you started:
+### 💫 About Me
+> **"I Love you"**
+- 🎨 UI/UX Designer
+- **Role:** SNOWDOT Team Leader
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 💻 Development & Hardware
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++
+-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"/>
+</p>
+
+#### 🎨 Design & Art Direction
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Live2D-55B555?style=for-the-badge&logo=Live2D&logoColor=white"/>
+</p>
+
+---
+
+### 🎵 Keywords & Interests
+`#Rhythm_Game_Development` `#DIY_Controller(Sound_Voltex)` `#Graphic_Brinding` `#Fine_Stationery` `#Subculture_Art`
+
+---
+
+### 📫 Contact & Links
+- **Team:** SNDT (스노우닷)
+- **GitHub Stats:**
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=본인_깃허브_아이디&show_icons=true&theme=radical" />
+</p>
+
+---
+<p align="center">
+  <i>"꾸준함과 디테일이 차이를 만든다고 믿습니다."</i>
+</p>
