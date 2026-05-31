@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Live2D-55B555?style=for-the-badge&logo=Live2D&logoColor=white"/>
 </p>
 
 ---
@@ -40,7 +39,7 @@
 - **Team:** SNDT (스노우닷)
 - **GitHub Stats:**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인_깃허브_아이디&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seolbaek&show_icons=true&theme=radical" />
 </p>
 
 ---
