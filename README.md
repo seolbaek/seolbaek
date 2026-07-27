@@ -1,19 +1,16 @@
-<div align="center">
+<p>$\huge{\bf{\color{#978ff9}Seolbaek}}$</p>
 
-# 백설 | BaekSeol
-
-```UI/UX Designer · Rhythm Game Developer```
+- High School Student
+- SNOWDOT Team Leader  
+- UI/UX Designer
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,python,unity,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,cs,rust,kotlin,unity,linux,figma" />
 </p>
 
-Noctalia Korean Translation · Snowdot
+> Development Environment  
+```CachyOS x86_64```  
+```Hyprland 0.56.0 with Noctalia v5```  
+```fish 4.8.1```
 
-</div>
-
-<div align="center">
-
-### Love u
-
-</div>
+love u ʕ・ ̫ ‹ʔ―♡
