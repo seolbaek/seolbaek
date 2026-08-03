@@ -1,6 +1,5 @@
 <p>$\huge{\bf{\color{#978ff9}Seolbaek}}$</p>
 
-- High School Student
 - SNOWDOT Team Leader  
 - UI/UX Designer
 
